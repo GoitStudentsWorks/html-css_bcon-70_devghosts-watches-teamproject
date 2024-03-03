@@ -1,11 +1,11 @@
 {
-  "name": "devghosts-watches-teamproject",
+  "name": "html-css_bcon-70_devghosts-watches-teamproject",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/devghosts-watches-teamproject/",
+    "build": "vite build --base=/html-css_bcon-70_devghosts-watches-teamproject/",
     "preview": "vite preview"
   },
   "devDependencies": {
